@@ -1,0 +1,8 @@
+html, body {
+    height: 100%;
+    background-color: red;
+    background: url(../img/a.png) no-repeat center center;
+}
+.main {
+    background: #000;
+}
